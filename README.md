@@ -1,4 +1,8 @@
 
+# Requirements
+- Python 3.x
+- Install the requirements packages `pip install -r requirements.txt`
+
 # Dataset
 - The dataset can be downloaded from [Google Landmark Recognition Challenge](https://www.kaggle.com/c/landmark-recognition-challenge/data).
 - Unzip the downloaded dataset and put under `src/data/dataset.csv` and follow the notebook `src/analysis.ipynb` or just use the reduced version of the original dataset.
