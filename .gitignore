@@ -103,3 +103,9 @@ ENV/
 data/*
 /src/data
 /.vscode
+/src/augmented_simple_cnn_best_weight.h5
+/src/finetune_augmented_solution_best.h5
+/src/finetune_solution_best.h5
+/src/finetuning_best.h5
+/src/simple_best_weights_cnn.h5
+/src/solution_best.h5
