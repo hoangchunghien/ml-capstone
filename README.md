@@ -12,4 +12,6 @@
 - `src/data/train.csv` - the training images set
 - `src/data/valid.csv` - the validation images set
 - `src/data/test.csv` - the test images set
-
+- `src/analysis.ipynb` - The notebook that I've used to analyze and preprocess dataset
+- `src/benchmark_model.ipynb` - The notebook that I've used to build a benchmark model
+- `src/vgg16_model.ipynb` - The notebook that I've used to build my final solution
