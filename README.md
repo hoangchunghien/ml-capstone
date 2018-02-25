@@ -1,4 +1,9 @@
 
+# Overview
+While go through vacation photos, people always ask themself: What is the name of this temple I visited in Thailand? Who created this monument in France? Landmark recognition can help! This technology can predict landmark labels directly from image pixels, to help people better understand and organize their photo collections.
+ 
+In this project, a model use for landmark recognition will be built based on ImageNet Classification With Deep Convolutional Neural Networks
+
 # Requirements
 - Python 3.x
 - Install the requirements packages `pip install -r requirements.txt`
